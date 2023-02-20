@@ -1,0 +1,12 @@
+.nav_theme_2 {
+    background-color: #88b04b;
+}
+
+.nav_theme_2 .nav__item:hover {
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid #5f7c35;
+}
+
+.nav_theme_2 .nav__popup .nav__item:hover {
+    border: none;
+}

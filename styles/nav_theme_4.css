@@ -1,0 +1,37 @@
+.nav_theme_4  {
+    background-color: white;
+}
+
+.nav_theme_4 .nav__hamburger {
+    border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
+}
+
+.nav_theme_4 .nav__hamburger::before {
+    border-top: 3px solid grey;
+}
+
+.nav_theme_4 .nav__icon {
+    border: 3px solid gray;
+}
+
+.nav_theme_4 .nav__icon::after {
+    background-color: gray;
+}
+
+.nav_theme_4 .nav__item:hover {
+    border-top: 4px solid transparent;
+    border-bottom: 4px solid #5f7c35;
+}
+
+.nav_theme_4 .nav__popup {
+    background-color: white
+}
+
+.nav_theme_4 .nav__popup .nav__item:hover {
+    border: none;
+}
+
+.nav_theme_4 .nav__link {
+    color: gray;
+}

@@ -1,0 +1,36 @@
+.nav_theme_3 {
+    background-color: white
+}
+
+.nav_theme_3 .nav__hamburger {
+    border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
+}
+
+.nav_theme_3 .nav__hamburger::before {
+    border-top: 3px solid grey;
+}
+
+.nav_theme_3 .nav__link {
+    color: grey;
+}
+
+.nav_theme_3 .nav__item:hover>.nav__link {
+    color: white;
+}
+
+.nav_theme_3 .nav__popup .nav__link {
+    color: white;
+}
+
+.nav_theme_3 .nav__icon {
+    border: 3px solid gray;
+}
+
+.nav_theme_3 .nav__icon::after {
+    background-color: gray;
+}
+
+.nav_theme_3 .nav__item:hover {
+    background-color: #88b04b;
+}
